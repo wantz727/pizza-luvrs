@@ -18,5 +18,5 @@ Found one? Please let me know by opening an [issue](https://github.com/ryanmurak
 
 All Images copyright Anonymous
 
-All Code under MIT license
+All Code under changes within 1st Branch
 
