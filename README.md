@@ -16,7 +16,7 @@ Found one? Please let me know by opening an [issue](https://github.com/ryanmurak
 
 ## License
 
-All Images copyright Ryan Lewis
+All Images copyright Anonymous
 
 All Code under MIT license
 
