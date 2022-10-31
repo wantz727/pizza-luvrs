@@ -15,5 +15,6 @@ None at this time.
 ## Modified by
 
 Erwan
-
+-Test local change while remote also make changes to same file/section
+-who will win!
 
