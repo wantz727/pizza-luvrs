@@ -12,10 +12,8 @@ Pizza Luvrs is a social network for people who love pizza. Users can create acco
 
 None at this time.
 
-Found one? Please let me know by opening an [issue](https://github.com/ryanmurakami/pizza-luvrs/issues)!
+## Modified by
 
-## License
+Erwan
 
-All Images copyright Ryan Lewis
 
-All Code under MIT license
